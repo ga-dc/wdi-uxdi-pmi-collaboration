@@ -15,9 +15,9 @@
 
 ### Project Schedule by Program
 
-PMI: January 11th-29th (Weeks 8-10 for PMI)
-WDI: January 18th-29th (Weeks 13-14 for WDI)
-UXDI: January 18th-29th (Weeks 13-14 for UXDI)
+* PMI: January 11th-29th (Weeks 8-10 for PMI)  
+* WDI: January 18th-29th (Weeks 13-14 for WDI)  
+* UXDI: January 18th-29th (Weeks 13-14 for UXDI)  
 
 ## What will groups look like?
 
