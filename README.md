@@ -1,54 +1,48 @@
-TO ADD
-* End result: ship a product --OR-- "Fail in the right way".
-* Responsive web application (app-ish).
-* Product manager is also a "Project Manager" and "Business Lead".
-* PMI manages design strategy. UX executes.
-* Make early WDI expectations clear (i.e., not working a lot but be part of scrums).
-* Won't be HEAVY WDI involvement during Week 2. Expected to do majority of building Week 3.
-  - Maybe have requirement so that certain teams meet a certain number of times each week (e.g., two full-team meetings in Week 2)
-* We need to figure out tech specs for the project.
-* By Wed/Thurs of Week 1, PMI will provide project markets.
-* Make clear: you are full-on committing this. Other people's projects are riding on this.
-* Outline commitments week-by-week.
-  * Week 1: Not involved.
-  * Week 2: Avail for kickoff start of week and consultation throughout the week. Possible to start building.
-  * Week 3: Build sprint.
-* PMI wants to deliver product, not prototype (if possible).
-* There will be a Tech Lead among the developers. Make sure they know that.
-
-NEXT STEPS
-* Create interest form
-* Adapt README so that it's WDI, UXDI and PMI-facing
-  -- UXDI will have their but sent over by Tuesday
-
 # WDI-UXDI-PMI Collaboration
 
-In the real world, product managers, UX designers and developers will not be working in isolation. This project is an opportunity for GA DC immersive students to 
+In the real world, product managers, UX designers and developers will not be working in isolation. This project is an opportunity for GA DC immersive students to work together and see what it's like to be part of a real world, multi-disciplined team.
 
-* After class, WDI will have opportunity to develop a PMI student's prototype
-* Have the opportunity to work with product manager and UX designer. Simulate real world.
-* Great opportunity to broaden your experiences as web developer as you prepare for industry.
+For this collaboration, UX designers and web developers from the last UXDI and WDI classes will have the opportunity to work with and build out a PMI student's prototype. By the end of the collaboration, each team is expected to ship a product.
+
+> **IMPORTANT:** By signing up for this project you are making a serious commitment. You cannot bow out from the project once it has begun.
+
+## What?
+
+Groups are expected to ship a completed product by the end of the project. The project should be a responsive web application. It should **NOT** be a mobile application.
 
 ## When?
 
-**January 18th - 29th, 2016**
+The project lasts from **January 11th - 29th, 2016**. PMI, UXDI and WDI students are expected to be more involved at different points during this period.
+
+### January 11th - 15th
+
+PMI and UXDI student will begin working together on the project idea and design.
+* WDI students are **NOT** expected to assist with project planning this week since it will be their last week of class. WDI students are welcome, however, to be part of group meetnigs this week.
+* PMI students should provide "project markets" by Wednesday or Thursday of this week.
+
+### January 18th - 22nd
+
+UXDI students will spend this week finalizing project design and working with WDI students to begin implementation.
+* WDI students are not expected to do a heavy amount of coding this week. It is up to the groups, however, to determine when coding will begin.
+
+### January 25th - 29th
+
+This is primarily a sprint week for WDI students.
+* UXDI students are not expect to be on-hand this week but are encouraged to answer any UX-related questions the PMI or WDI students might have.
+
+### Notes
+
+* This project takes place during Weeks 8-10 of the PMI class.
+* PMI students will be involved throughout the entire project.
+* It is up to the groups to determine their work and meeting schedules. You may work over the weekends if you see fit.
 
 * PMI and UXDI students will actually start working together on January 11th. WDI portion of the project will begin on January 18th.
-* Developers are welcome to be a part of but are not expected to assist with planning the week of January 11th.
-* The Product Manager will be present throughout the entire project. UXDI will not be expected to be on-hand during the week of January 25th, but are encouraged to answer any UX-related questions the developers might have.
-* This takes place during Weeks 8-10 for PMI.
 
 ### Project Schedule by Program
 
 * PMI: January 11th-29th (Weeks 8-10 for PMI)  
 * UXDI: January 18th-22nd (Weeks 13-14 for UXDI)  
 * WDI: January 25th-29th (Weeks 13-14 for WDI)  
-
-
-## What will groups look like?
-
-* Each team will consist of 1 Product Manager, 1-2 UX Designers and 2-3 developers.
-* Groups will be generated at random.
 
 ## Expectations
 
@@ -68,6 +62,8 @@ Other deliverables expected of your team by the end of the project are included 
 * Financial, Marketing and Launch Plan.
   * To be completed by PMI at end of project.
 
-## Interested?
+## What will groups look like?
 
-Please fill out and submit this form by _______.
+* Each team will consist of 1 Product Manager, 1-2 UX Designers and 2-3 developers.
+* Developers should pick one person among them to be the "Tech Lead."
+* Groups will be generated at random.
