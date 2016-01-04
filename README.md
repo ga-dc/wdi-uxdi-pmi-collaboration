@@ -35,14 +35,15 @@ In the real world, product managers, UX designers and developers will not be wor
 
 * PMI and UXDI students will actually start working together on January 11th. WDI portion of the project will begin on January 18th.
 * Developers are welcome to be a part of but are not expected to assist with planning the week of January 11th.
-* The Product Manager will be present throughout the entire project. UXDI will not be expected to be on-hand during the week of January 18th, but are encouraged to answer any UX-related questions the developers might have.
+* The Product Manager will be present throughout the entire project. UXDI will not be expected to be on-hand during the week of January 25th, but are encouraged to answer any UX-related questions the developers might have.
 * This takes place during Weeks 8-10 for PMI.
 
 ### Project Schedule by Program
 
 * PMI: January 11th-29th (Weeks 8-10 for PMI)  
-* WDI: January 18th-29th (Weeks 13-14 for WDI)  
-* UXDI: January 18th-29th (Weeks 13-14 for UXDI)  
+* UXDI: January 18th-22nd (Weeks 13-14 for UXDI)  
+* WDI: January 25th-29th (Weeks 13-14 for WDI)  
+
 
 ## What will groups look like?
 
