@@ -1,4 +1,29 @@
+TO ADD
+* End result: ship a product --OR-- "Fail in the right way".
+* Responsive web application (app-ish).
+* Product manager is also a "Project Manager" and "Business Lead".
+* PMI manages design strategy. UX executes.
+* Make early WDI expectations clear (i.e., not working a lot but be part of scrums).
+* Won't be HEAVY WDI involvement during Week 2. Expected to do majority of building Week 3.
+  - Maybe have requirement so that certain teams meet a certain number of times each week (e.g., two full-team meetings in Week 2)
+* We need to figure out tech specs for the project.
+* By Wed/Thurs of Week 1, PMI will provide project markets.
+* Make clear: you are full-on committing this. Other people's projects are riding on this.
+* Outline commitments week-by-week.
+  * Week 1: Not involved.
+  * Week 2: Avail for kickoff start of week and consultation throughout the week. Possible to start building.
+  * Week 3: Build sprint.
+* PMI wants to deliver product, not prototype (if possible).
+* There will be a Tech Lead among the developers. Make sure they know that.
+
+NEXT STEPS
+* Create interest form
+* Adapt README so that it's WDI, UXDI and PMI-facing
+  -- UXDI will have their but sent over by Tuesday
+
 # WDI-UXDI-PMI Collaboration
+
+In the real world, product managers, UX designers and developers will not be working in isolation. This project is an opportunity for GA DC immersive students to 
 
 * After class, WDI will have opportunity to develop a PMI student's prototype
 * Have the opportunity to work with product manager and UX designer. Simulate real world.
@@ -33,7 +58,7 @@ Design, manage, build and launch a working Product. The best case objectives for
 * Identify Project Sprints.
 * Deployed and Working Prototype.
 
-Other deliverables expected of your team by the end of the project are included in the below list. Your product manager and UX designers will have completed most, if not all, of the following during the first week of the project.
+Other deliverables expected of your team by the end of the project are included in the below list. Your product manager will have completed most, if not all, of the following during the first week of the project.
 
 * Idea, Elevator Pitch and Vision Statement.
 * Project Plan.
